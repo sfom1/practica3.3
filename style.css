@@ -1,9 +1,9 @@
 p {
     color: red;
 }
-p.blue {
+.blue {
     color: blue;
 }
-p.green {
+.green {
     color: green;
 }
